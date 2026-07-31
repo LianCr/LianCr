@@ -6,7 +6,7 @@ I build products end-to-end and hold them to production standards — numbers co
 
 Computer Science graduate from Alma College · Based in Southern California · Open to Software Engineer & Full-Stack roles
 
-[LinkedIn](www.linkedin.com/in/ryan-lian-a1b719249)  · [Portfolio](https://my-portfolio-acme307.vercel.app/) 
+[LinkedIn](https://www.linkedin.com/in/ryan-lian-a1b719249)  · [Portfolio](https://my-portfolio-acme307.vercel.app/) 
 
 ---
 
